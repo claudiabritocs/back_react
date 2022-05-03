@@ -1,24 +1,11 @@
-# README
+# Back React - Livros
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Descrição do programa
 
-Things you may want to cover:
+## Em produção
 
-* Ruby version
+ - Back (Heroku)
+https://back-react-brito.herokuapp.com/books
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Front (Netlify)
+https://brilliant-malasada-a5add5.netlify.app
